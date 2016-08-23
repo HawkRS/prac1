@@ -1,0 +1,7 @@
+creando un archivo de texto .gitignore
+
+$touch .gitignore
+$cat .gitignore
+~*
+*.so
+*.log
